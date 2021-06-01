@@ -13,8 +13,8 @@ mediaServer
   {
     websocket
     {
-      port 8888
-      path kurento
+      port 6700
+      path media
       threads 10
 ;       secure
 ;       {
